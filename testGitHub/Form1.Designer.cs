@@ -52,9 +52,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(264, 155);
+            this.button2.Location = new System.Drawing.Point(264, 51);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(167, 127);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
@@ -63,7 +63,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(416, 262);
+            this.ClientSize = new System.Drawing.Size(499, 305);
             this.Controls.Add(this.domainUpDown1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
